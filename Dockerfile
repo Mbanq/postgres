@@ -1,3 +1,3 @@
-FROM postgres:11.6
+FROM postgres:11.9
 
 MAINTAINER Mbanq <dev@mbanq.com>
